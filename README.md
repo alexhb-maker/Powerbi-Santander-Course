@@ -58,6 +58,7 @@ Si deseas probar los paneles de forma local en tu equipo, sigue estos pasos:
 1. Clona este repositorio:
 ```bash
    git clone [https://github.com/alexhb-maker/](https://github.com/alexhb-maker/)Powerbi-Santander-Course.git
+```
 Dirígete a la carpeta /dashboards y abre cualquiera de los archivos .pbix con Power BI Desktop.
 
 Nota de orígenes de datos: Si Power BI solicita actualizar las rutas de los archivos de Excel, ve a Inicio > Transformar datos > Configuración de origen de datos y apunta a la carpeta /data de tu directorio local.
